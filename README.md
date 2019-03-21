@@ -1,1 +1,1 @@
-# Huffman-algorithm
+# Encryption decryption using Huffman algorithm
